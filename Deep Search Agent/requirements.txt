@@ -1,0 +1,37 @@
+# Core LLM & Orchestration
+groq==0.9.0
+langchain==0.2.16
+langchain-groq==0.1.9
+langchain-community==0.2.16
+langgraph==0.2.28
+
+# Web Search
+tavily-python==0.3.9
+
+# Vector Database & Embeddings
+chromadb==0.5.3
+sentence-transformers==3.0.1
+
+# Financial Data
+yfinance==0.2.44
+pandas==2.2.2
+numpy==2.0.1
+
+# Document Processing
+pypdf==4.3.1
+python-docx==1.1.2
+unstructured==0.15.0
+
+# API Framework
+fastapi==0.112.1
+uvicorn==0.30.6
+pydantic==2.8.2
+pydantic-settings==2.4.0
+
+# Utilities
+python-dotenv==1.0.1
+rich==13.7.1
+typer==0.12.5
+httpx==0.27.0
+aiofiles==24.1.0
+tenacity==8.5.0
